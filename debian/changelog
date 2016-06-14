@@ -1,3 +1,9 @@
+libuv1 (1.8.0-1tcp1) trusty; urgency=medium
+
+  * tcpcloud trusty backport
+
+ -- Filip Pytloun <filip@pytloun.cz>  Tue, 14 Jun 2016 09:26:02 +0200
+
 libuv1 (1.8.0-1) unstable; urgency=medium
 
   * New upstream release
