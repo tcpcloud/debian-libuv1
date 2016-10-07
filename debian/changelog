@@ -1,8 +1,8 @@
-libuv1 (1.8.0-1tcp1) trusty; urgency=medium
+libuv1 (1.8.0-1tcp1+jessie) jessie; urgency=medium
 
-  * tcpcloud trusty backport
+  * tcpcloud jessie backport
 
- -- Filip Pytloun <filip@pytloun.cz>  Tue, 14 Jun 2016 09:26:02 +0200
+ -- Filip Pytloun <filip@pytloun.cz>  Fri, 07 Oct 2016 10:27:37 +0200
 
 libuv1 (1.8.0-1) unstable; urgency=medium
 
